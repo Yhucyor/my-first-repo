@@ -1,0 +1,18 @@
+# Compiled files
+*.class
+
+# Package files
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build tools
+target/
+build/
+
+# OS
+.DS_Store
